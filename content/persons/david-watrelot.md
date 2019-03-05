@@ -3,6 +3,7 @@
 # Le nom du fichier sera aussi l'url de ton profil
 
 # REQUIS
+
 # Le titre qui te refléte "Expert JavaScript", "Développeur web junior"
 titre: Intégrateur HTML, développeur Front-end et développeur PHP
 

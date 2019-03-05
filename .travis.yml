@@ -22,7 +22,7 @@ deploy:
   repo: popcorn-saint-brieuc/popcorn-saint-brieuc.github.io
   target-branch: master
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
+  github-token: ae59835d55bf584f54e5d2b1393951fd0273f1d6 # Set in the settings page of your repository, as a secure variable
   keep-history: true
   on:
     branch: published
