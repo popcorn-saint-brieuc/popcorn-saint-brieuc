@@ -4,7 +4,7 @@
 
 # REQUIS
 # Le titre qui te refléte "Expert JavaScript", "Développeur web junior"
-titre: Intégrateur html, Développeur Front-end, WordPress
+titre: Intégrateur HTML, développeur Front-end et développeur PHP
 
 # OPTIONNEL
 # Un sous-titre de ton choix si tu as quelque chose à ajouter
@@ -62,23 +62,21 @@ technologies:
   - WordPress
   - WooCommerce
   - Symfony
-  
-
 # REQUIS
 # écrit ci-dessous ta présentation en markdown ⬇️
 # Il sera affiché sur ta page de profil dédiée
 # La coloration syntaxique du code est supportée.
 ---
 
-Je m’appelle David. Je suis intégrateur HTML expert, développeur Front-end et développeur PHP.
-
-Avec plus de 10 ans d’expérience en agence, je travaille désormais en tant que freelance. 
+Avec plus de 10 ans d’expérience en agence, je travaille désormais en tant que freelance.
 
 J’aide les agences et les annonceurs à créer des sites internet, des applications web, des opérations commerciales ou des campagnes de communication réussies. J'interviens de manière partielle ou globale à l'intégration, le développement et la maintenance de ces projets.
 
 Particulièrement attentif au respect des standards et aux problématiques de performances, j'intègre les sites internet, applications web ou newsletters pour tous les appareils, en utilisant les techniques du responsive web design.
 
-Je travaille principalement avec les langages Php et JavaScript. J'utilise notamment WordPress, WooCommerce, Symfony ou encore Vue.js pour concevoir le site internet qui répondra à vos besoins.
+Je travaille principalement avec les langages **Html**, **JavaScript** et **Php**.
+J'utilise notamment **WordPress**, **WooCommerce**, **Symfony** ou encore **Vue.js** pour concevoir le site internet qui répondra à vos besoins.
 
-### Projets clients récents:
+#### Projets clients récents:
+
 http://www.hellodeloo.com/prestations-clients/
