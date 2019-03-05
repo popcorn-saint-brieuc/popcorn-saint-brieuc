@@ -1,3 +1,3 @@
 module.exports = {
-  location: "à {{MA_LOCALITE}}"
+  location: "à Saint Brieuc"
 }
