@@ -5,7 +5,7 @@
 # REQUIS
 
 # Le titre qui te refléte "Expert JavaScript", "Développeur web junior"
-titre: Intégrateur HTML, développeur Front-end et développeur PHP
+titre: Intégrateur html, développeur front-end React et développeur WordPress
 
 # OPTIONNEL
 # Un sous-titre de ton choix si tu as quelque chose à ajouter
@@ -59,7 +59,8 @@ technologies:
   - CSS
   - JavaScript
   - PHP
-  - Vue.js
+  - React.js
+  - Gatsby.js
   - WordPress
   - WooCommerce
   - Symfony
@@ -69,14 +70,15 @@ technologies:
 # La coloration syntaxique du code est supportée.
 ---
 
+Je m’appelle David. Je suis intégrateur html, développeur front-End et développeur Php.
+
 Avec plus de 10 ans d’expérience en agence, je travaille désormais en tant que freelance.
 
-J’aide les agences et les annonceurs à créer des sites internet, des applications web, des opérations commerciales ou des campagnes de communication réussies. J'interviens de manière partielle ou globale à l'intégration, le développement et la maintenance de ces projets.
+J’aide les agences et les annonceurs à créer des sites internet, des applications web, des opérations commerciales ou des campagnes de communication réussies. J'interviens de manière partielle ou globale à la conception, l'intégration, le développement et la maintenance de ces projets.
 
 Particulièrement attentif au respect des standards et aux problématiques de performances, j'intègre les sites internet, applications web ou newsletters pour tous les appareils, en utilisant les techniques du responsive web design.
 
-Je travaille principalement avec les langages **Html**, **JavaScript** et **Php**.
-J'utilise notamment **WordPress**, **WooCommerce**, **Symfony** ou encore **Vue.js** pour concevoir le site internet qui répondra à vos besoins.
+Je travaille principalement avec les langages **Html**, **JavaScript** et **Php**. J'utilise notamment **WordPress**, **WooCommerce**, **Symfony** ou encore **React.js**..
 
 #### Projets clients récents:
 
